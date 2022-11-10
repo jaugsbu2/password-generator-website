@@ -17,6 +17,7 @@ To use this password generator, press the "Generate Password" button. Input the 
 
 ## Credits
 
+N/A
 
 ## License
 
