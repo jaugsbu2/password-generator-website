@@ -1,6 +1,6 @@
 # Password Generator
 
-![about-section](/assets/images/password-generator-example.png)
+![about-section](/Assets/images/password-generator-example.png)
 
 ## Description
 
