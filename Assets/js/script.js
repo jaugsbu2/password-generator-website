@@ -3,6 +3,7 @@ var generateBtn = document.querySelector("#generate");
 
 
 function generatePassword() {
+  
   var numberInput = {
 
     passLength: prompt("Input a number between 8 and 128 for the desired password length."),
@@ -45,6 +46,7 @@ function generatePassword() {
   var password = "";
   var characterArray = [];
 
+  
   function lowChoice() {
     if (charChoice.lower) {
       characterArray.unshift("a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z")
