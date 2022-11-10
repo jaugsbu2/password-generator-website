@@ -5,20 +5,20 @@ var generateBtn = document.querySelector("#generate");
 function generatePassword() {
   var numberInput = {
 
-    passLength: prompt("Input a number between 8 and 128."),
+    passLength: prompt("Input a number between 8 and 128 for the desired password length."),
 
     confirmNumber: function () {
       if (isNaN(this.passLength)) {
-        alert("Input a Number, only.");
+        alert("Please input a Number.");
       }
       else if (this.passLength.length == 0) {
         alert("Please input a Number");
       }
       else if (this.passLength > 128 || this.passLength < 8) {
-        alert("Input a number between 8 and 128.");
+        alert("Please input a number between 8 and 128.");
       }
       else if ((parseInt(this.passLength) - this.passLength) != 0) {
-        alert("Input a whole number.");
+        alert("Please input a whole number.");
 
       }
       else {

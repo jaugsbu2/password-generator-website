@@ -1,6 +1,6 @@
 # Password Generator
 
-![about-section](/assets/images/about-section.png)
+![about-section](/assets/images/password-generator-example.png)
 
 ## Description
 
@@ -8,18 +8,15 @@ This is a password generator website. The user can generate a secure password th
 
 ## Installation
 
-Link to Deployment: https://jaugsbu2.github.io/my-portfolio-website/
+Link to Deployment: https://jaugsbu2.github.io/password-generator-website/
 
 ## Usage
 
-Click on the links in the top navigation bar and you will be directed to that section. 
-To view the flexible structure of the website, resize the browser as desired.
-Click on any of the links within the Work section and you will be routed to the website showcasing that project.
+To use this password generator, press the "Generate Password" button. Input the desired password length in the first prompt and then choose the types of characters to include in the following four prompts. The password is then displayed on the screen. If desired, the user can press the generate button again and follow the prompts to generate another secure password.
 
 
 ## Credits
 
-https://www.w3schools.com/cssref/pr_background-image.php
 
 ## License
 
