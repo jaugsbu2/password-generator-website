@@ -14,6 +14,7 @@ Link to Deployment: https://jaugsbu2.github.io/password-generator-website/
 
 To use this password generator, press the "Generate Password" button. Input the desired password length in the first prompt and then choose the types of characters to include in the following four prompts. The password is then displayed on the screen. If desired, the user can press the generate button again and follow the prompts to generate another secure password.
 
+![usage-video](/Assets/images/Napster%20is%20Back!.webm)
 
 ## Credits
 
